@@ -1,6 +1,6 @@
 Package: com.randy420.taidependsother
 Name: Theos Auto Installer Dependencies for All Other Jailbreaks
-Depends: clang, clang-10, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport, xar
+Depends: clang-10, coreutils, coreutils-bin, xz, dpkg, lz4, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, openssl
 Conflicts: com.randy420.taidependscoolstar, org.theos.dependencies, theos-dependencies
 Architecture: iphoneos-arm
 Description: dependencies for all other jailbreaks
@@ -8,7 +8,7 @@ Depiction: https://Randy-420.GitHub.io/depic/taidependsother.html
 Homepage: https://theemeraldisle.family
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Author: Randy420 <randy.skinner@hotmail.com>
-Version: 0.1
+Version: 0.2
 Replaces: com.randy420.taidependscoolstar, org.theos.dependencies, theos-dependencies
 Section: System
 Tag: role::hacker
